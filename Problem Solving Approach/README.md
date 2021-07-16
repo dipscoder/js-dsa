@@ -3,17 +3,17 @@
 - Master common problem solving patterns
 
 ### Problem Solving
-- Uderstand the problem
+- Understand the problem
 - Explore Concrete Examples
 - Break it down
 - Solve/ Simplify
 - Look Back And Refactor
 
-### 1. Uderstand the problem
+### 1. Understand the problem
 - Can I restate the proble in my own words?
 - What are the inputs that go into the problems? 
 - What are the outputs that should come from the soution to the problem?
-- Can the outputs be determined fro the inputs? In other words, do I have enougn information to solve the problem? (You may not be able to answer this question untill you set about solving the problem. Thats okay; its still worth considering the question at this early stage.)
+- Can the outputs be determined from the inputs? In other words, do I have enougn information to solve the problem? (You may not be able to answer this question untill you set about solving the problem. Thats okay; its still worth considering the question at this early stage.)
 - How should I lable the important pieces of data that are a part of the problem? 
 
 ### 2. Explore Concrete Examples
@@ -33,5 +33,11 @@
 - Write a simplified solution
 - Then incorporate that difficulty back in
 
-
-
+### 5. Recap And Refactor
+- Can you check the result?
+- Can ou derive the result differently?
+- Can you understand it at a glance?
+- Can you use the result or method for some other problem?
+- Can you improve the performance of your solution?
+- Can you think of other ways to refactor?
+- How have other people solved this problem? (Can ask the interviewer)
